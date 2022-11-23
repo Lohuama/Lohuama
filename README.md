@@ -1,8 +1,9 @@
-### Olá! 👋 Eu sou a Lohuama Lima 😃
+### Hi! 👋 I am Lohuama Lima 😃
 
-- 🔭 Hoje trabalho com Frontend
-- 🌱 Estou estudando React JS
-- 💬 Contate-me no e-mail: limalorruama98@gmail.com 
+- 🔭 Today I work with Frontend
+- 🌱 I'm studying React JS
+- 💬 Contact me on email: limalorruama98@gmail.com 
+![](https://github.com/Lohuama/Lohuama/blob/main/gif.gif)
 
 <div align="center">
   <a href="https://github.com/Lohuama">
