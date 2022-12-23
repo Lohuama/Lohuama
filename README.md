@@ -1,7 +1,7 @@
 ### Hi! 👋 I am Lohuama Lima 😃
 
 - 🔭 Today I work with Frontend
-- 🌱 I'm studying React JS
+- 🌱 I'm studying React JS  and NextJS
 - 💬 Contact me on email: limalorruama98@gmail.com 
 ![](https://github.com/Lohuama/Lohuama/blob/main/gif.gif)
 
