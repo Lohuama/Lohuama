@@ -1,7 +1,9 @@
 ### Hi! 👋 I am Lohuama Lima 😃
 
-- 🔭 Today I work with Frontend
-- 🌱 I'm studying React JS  and NextJS
+💻 Fullstack Developer with a focus on Backend  
+🚀 Building scalable APIs with NestJS, Prisma and Docker  
+💡 Frontend experience with React.js and Next.js  
+🌱 Currently studying Java  
 - 💬 Contact me on email: limalorruama98@gmail.com 
 ![](https://github.com/Lohuama/Lohuama/blob/main/gif.gif)
 
